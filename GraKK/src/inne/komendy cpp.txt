@@ -1,0 +1,3 @@
+javac -h . Biblioteka.java
+x86_64-w64-mingw32-g++ -c -fPIC -I C:\Users\Sorin\Desktop\jdk-14.0.1\include -I C:\Users\Sorin\Desktop\jdk-14.0.1\include\win32 nat_biblioteka.cpp -o nat_biblioteka.o
+x86_64-w64-mingw32-g++ -shared -o native.dll nat_biblioteka.o -Wl,--add-stdcall-alias
