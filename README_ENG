@@ -11,5 +11,5 @@ An application using JavaFX that allows you to play 5,5,4 with another player or
 2. Artificial intelligence uses scripts written in JavaScript using the Nashorn engine or native C++ code.
 3. Aplication appearance:
 ![alt text](https://github.com/Michal314-p/Gra_SI/blob/master/Obrazy/ekran_glowny.png)
-4. Result of a game won by green player:
+4. Result of a game won by red player:
 ![alt text](https://github.com/Michal314-p/Gra_SI/blob/master/Obrazy/wygrana.png)
